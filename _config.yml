@@ -1,2 +1,7 @@
 plugins:
   - jekyll-sitemap
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
+
+google_analytics: G-PWVRQ50K5S
