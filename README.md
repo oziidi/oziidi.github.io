@@ -12,10 +12,12 @@
 
 ## Note on vim
 
-カーソル操作  
+### カーソル操作
 ![vim cursor operation](image/vim_cursor.png)
 <br>
+<br>
 
-バッファ操作  
+### バッファ操作
 ![vim buffer operation](image/vim_buffer.png)
+<br>
 <br>
