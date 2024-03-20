@@ -10,14 +10,12 @@
 * [gnupack_patches](https://github.com/oziidi/gnupack_patches)<br>
   Patches for gnupack-pretest_devel-2017.09.11. gnupack allows Windows OS users to use cygwin and emacs in a ready-to-use manner.
 
-## Note on vim
-
-### カーソル操作
+## vim カーソル移動
 ![vim cursor operation](image/vim_cursor.png)
 <br>
 <br>
 
-### バッファ操作
+## vim バッファ移動・拡大・縮小
 ![vim buffer operation](image/vim_buffer.png)
 <br>
 <br>
