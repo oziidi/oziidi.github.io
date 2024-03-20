@@ -13,9 +13,9 @@
 ## Note on vim
 
 カーソル操作  
-[vim cursor operation](image/vim_cursor.png)
+![vim cursor operation](image/vim_cursor.png)
 <br>
 
 バッファ操作  
-[vim buffer operation](image/vim_buffer.png)
+![vim buffer operation](image/vim_buffer.png)
 <br>
