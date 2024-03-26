@@ -19,6 +19,6 @@
 <br>
 
 ## vim ウィンドウ分割・移動・拡大縮小
-![vim buffer operation](image/vim_buffer.png)
+![vim buffer operation](image/vim_window.png)
 <br>
 <br>
