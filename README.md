@@ -8,7 +8,7 @@
   Optimized cygwin for gnupack_pretest_devel_2017-09-11. Removed cvs, subversion, git, ctags, python, & ruby from the cygwin.
 
 * gnupack_patches ([https://github.com/oziidi/gnupack_patches](https://github.com/oziidi/gnupack_patches))<br>
-  Patches for gnupack-pretest_devel-2017.11.19. gnupack allows Windows OS users to use cygwin and emacs in a ready-to-use manner.
+  Patches for gnupack-pretest_devel-2017.09.11. gnupack allows Windows OS users to use cygwin and emacs in a ready-to-use manner.
 
 <br>
 <br>
