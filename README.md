@@ -10,6 +10,10 @@
 * gnupack_patches ([https://github.com/oziidi/gnupack_patches](https://github.com/oziidi/gnupack_patches))<br>
   Patches for gnupack-pretest_devel-2017.09.11. gnupack allows Windows OS users to use cygwin and emacs in a ready-to-use manner.
 
+* gnupack_msys2 ([https://github.com/oziidi/gnupack_msys2](https://github.com/oziidi/gnupack_msys2))  
+  cygwinをMSYS2に変えたgnupackっぽい作業環境。MSYS2を別途、gnupack_msys2\\exe\\msys64\\にインストール必要。  
+  gnupack-like daily UNIX-like working enviornment on Windows with replaceing cygwin by MSYS2.
+
 <br>
 <br>
 
